@@ -10,9 +10,12 @@ Python 3. No third-party packages are required.
 
 ## Run
 
-````bash
+```bash
 python binNonadj_certificate.py
+```
 
 A successful run prints:
 
+```
 All exact NMT certificate assertions passed.
+```
