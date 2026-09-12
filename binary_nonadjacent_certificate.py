@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Exact finite certificate for the NMT counterexample.
+"""Exact finite certificate for the binary-nonadjacent case of policy transfer.
 
 The program uses only the Python standard library and integer arithmetic.
 It enumerates a single anchored petal, constructs the full wedge from the
