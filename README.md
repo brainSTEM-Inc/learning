@@ -11,7 +11,7 @@ Python 3. No third-party packages are required.
 ## Run
 
 ```bash
-python binNonadj_certificate.py
+python3 binary_nonadjacent_certificate.py
 ```
 
 A successful run prints:
