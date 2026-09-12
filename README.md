@@ -6,7 +6,7 @@ The certificate verifies the finite binary nonadjacent transfer case discussed i
 
 ## Requirements
 
-Python 3. No third-party packages are required.
+Python 3.10 or later. No third-party packages are required.
 
 ## Run
 
@@ -16,6 +16,6 @@ python3 binary_nonadjacent_certificate.py
 
 A successful run prints:
 
-```
+```text
 All exact NMT certificate assertions passed.
 ```
