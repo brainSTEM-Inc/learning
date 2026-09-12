@@ -4,12 +4,7 @@
 The program uses only the Python standard library and integer arithmetic.
 It enumerates a single anchored petal, constructs the full wedge from the
 proved one-active-petal decomposition, and evaluates the exact deterministic
-Bellman recurrences.  In particular, ``common_policy`` carries inherited
-mistake allowances down every shared branch and requires one prediction for
-both palettes.
-
-This executable audit supplements the structural proof in finalNMT.tex; it is
-not used as a substitute for that proof.
+Bellman recurrences.
 """
 
 from functools import cache
